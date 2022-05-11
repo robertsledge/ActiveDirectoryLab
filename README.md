@@ -25,3 +25,7 @@ Here we go:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/3.JPG)
 
+Rebooted and ready to log in:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/4.JPG)
+
