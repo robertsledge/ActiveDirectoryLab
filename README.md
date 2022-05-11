@@ -30,4 +30,6 @@ Rebooted and ready to log in:
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/4.JPG)
 
 
-More to come later tonight or tomorrow. Have a great day!
+More to come later tonight or tomorrow, including setting up our domain controller, adding users, and of course, attacking it with exploits. 
+
+Talk soon. Have a great day!
