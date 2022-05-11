@@ -18,6 +18,8 @@ Used the 2019 Standard Evaluation (Desktop Experience) choice at setup.
 Using the super secret password of Pa$$w0rd!
 
 https://github.com/robertsledge/ActiveDirectoryLab/blob/main/1.JPG
+
 https://github.com/robertsledge/ActiveDirectoryLab/blob/main/2.JPG
+
 https://github.com/robertsledge/ActiveDirectoryLab/blob/main/3.JPG
 
