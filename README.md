@@ -11,15 +11,17 @@ Server 2019 as Domain Controller
 
 Settings as seen below. Keeping it friendly at 2 GB RAM, and deleted the floppy.
 
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/1.JPG)
+
 NAT will be used throughout.
 
 Used the 2019 Standard Evaluation (Desktop Experience) choice at setup.
 
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/2.JPG)
+
 Using the super secret password of Pa$$w0rd!
 
-https://github.com/robertsledge/ActiveDirectoryLab/blob/main/1.JPG
+Here we go:
 
-https://github.com/robertsledge/ActiveDirectoryLab/blob/main/2.JPG
-
-https://github.com/robertsledge/ActiveDirectoryLab/blob/main/3.JPG
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/3.JPG)
 
