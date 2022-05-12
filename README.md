@@ -12,7 +12,7 @@ Server 2019 as Domain Controller
 
 Settings as seen below. Keeping it friendly at 2 GB RAM, and deleted the floppy.
 
-![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/1.JPG)
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/1a.JPG)
 
 NAT will be used throughout.
 
