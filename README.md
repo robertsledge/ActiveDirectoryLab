@@ -5,7 +5,8 @@ I'll be building out an AD lab with VMs shortly in order to replicate certain at
 I will add content as it becomes available.
 
 
--=Update=-
+================================
+
 
 Server 2019 as Domain Controller
 
