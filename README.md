@@ -37,9 +37,6 @@ Talk soon. Have a great day!
 
 ================================
 
-Client Machines
-
-Client Machines will be Windows 10 Enterprise Eval isos
 
 I upped the RAM to 4GB for the installs, but will be bringing it back to 2 so I can host both Clients, the Domain Controller, as well as my Kali attack machine on the same laptop without running into RAM issues (16 GB total on laptop).
 
