@@ -108,7 +108,11 @@ Click 'Install':
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/20.JPG)
 
 
+If you've gotten this far on your own, AWESOME!
 
+If you have to go back and Google a few things, that's fine too.
+
+We will continue with more tomorrow. Thanks!
 
 
 
