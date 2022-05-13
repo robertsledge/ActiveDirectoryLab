@@ -77,11 +77,17 @@ Select 'Next' again:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/13.JPG)
 
-Select your server from the list:
+Select your server from the list and hit 'Next':
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/14.JPG)
 
+On this screen, we want to select 'Active Directory Domain Services', highlighted above.
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/15.JPG)
+
+When you click on 'Active Directory Domain Services', this box will appear next.
+
+Click 'Add Features':
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/16.JPG)
 
