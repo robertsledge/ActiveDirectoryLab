@@ -43,8 +43,35 @@ Client Machines will be Windows 10 Enterprise Eval isos
 
 I upped the RAM to 4GB for the installs, but will be bringing it back to 2 so I can host both Clients, the Domain Controller, as well as my Kali attack machine on the same laptop without running into RAM issues (16 GB total on laptop).
 
-![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/5.JPG)
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/6.JPG)
 
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/7.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/8.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/9.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/10.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/11.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/12.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/13.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/14.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/15.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/16.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/17.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/18.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/19.JPG)
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/20.JPG)
 
 ================================
 
