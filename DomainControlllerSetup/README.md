@@ -1,14 +1,12 @@
-# Active Directory Lab
-
-I'll be building out an AD lab with VMs shortly in order to replicate certain attacks and recon methods.
-
-I will add content as it becomes available.
+# Active Directory Lab - Domain Controller Setup
 
 
-================================
 
 
-Server 2019 as Domain Controller
+
+
+
+Here we go. We'll be using Server 2019 as our Domain Controller
 
 Settings as seen below. Keeping it friendly at 2 GB RAM, and deleted the floppy.
 
