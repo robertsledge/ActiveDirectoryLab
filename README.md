@@ -69,11 +69,15 @@ When it does, we want to select 'Manage', and then 'Add Roles and Features' at t
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/11.JPG)
 
-
+Select 'Next':
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/12.JPG)
 
+Select 'Next' again:
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/13.JPG)
+
+Select your server from the list:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/14.JPG)
 
