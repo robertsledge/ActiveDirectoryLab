@@ -112,9 +112,7 @@ If you've gotten this far on your own, AWESOME!
 
 If you have to go back and Google a few things, that's fine too.
 
-We will continue with more tomorrow. Thanks!
-
-
+Sit tight. More content coming. Thanks!
 
 
 
