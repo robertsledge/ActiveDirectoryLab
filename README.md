@@ -91,13 +91,28 @@ Click 'Add Features':
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/16.JPG)
 
+Click 'Next':
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/17.JPG)
+
+Click 'Next'again:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/18.JPG)
 
+Click 'Next' one more time:
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/19.JPG)
 
+Click 'Install':
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/20.JPG)
+
+
+
+
+
+
+
 
 ================================
 
