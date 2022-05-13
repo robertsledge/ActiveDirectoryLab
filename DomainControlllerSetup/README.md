@@ -107,12 +107,10 @@ If you've gotten this far on your own, AWESOME!
 
 If you have to go back and Google a few things, that's fine too.
 
-Sit tight. More content coming. Thanks!
+Sit tight. More content on the way. Thanks!
 
 
 
 ================================
 
-================================
 
-================================
