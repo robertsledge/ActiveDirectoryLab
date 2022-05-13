@@ -43,17 +43,33 @@ Client Machines will be Windows 10 Enterprise Eval isos
 
 I upped the RAM to 4GB for the installs, but will be bringing it back to 2 so I can host both Clients, the Domain Controller, as well as my Kali attack machine on the same laptop without running into RAM issues (16 GB total on laptop).
 
+Ok, let's log in with our super secret password (Pa$$w0rd!)
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/6.JPG)
+
+Netx, we will use our friend sysdm.cpl:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/7.JPG)
 
+Let's rename our PC here:
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/8.JPG)
+
+Change the name, and then select 'Ok'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/9.JPG)
 
+And now a quick restart:
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/10.JPG)
 
+Ok, so - Every time you start Server 2019, you should have Server Manager pop up.
+
+When it does, we want to select 'Manage', and then 'Add Roles and Features' at the top:
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/11.JPG)
+
+
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/12.JPG)
 
