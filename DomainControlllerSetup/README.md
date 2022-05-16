@@ -100,14 +100,56 @@ Click 'Next' one more time:
 
 Click 'Install':
 
-![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/20.JPG)
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/21.JPG)
 
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/22.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/23.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/24.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/25.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/26.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/27.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/28.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/29.JPG)
+
+
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/30.JPG)
+
+We can check our User attributes to see that we are logged in as the Administrator Account on our new domain:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/31.JPG)
+
+
+Congraulations! You are the Admin of your Domain Controller! 
 
 If you've gotten this far on your own, AWESOME!
 
 If you have to go back and Google a few things, that's fine too.
 
-Sit tight. More content on the way. Thanks!
+Next lesson: Seeting up Client Machines - Coming up!
 
 
 
