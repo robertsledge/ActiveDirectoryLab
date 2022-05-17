@@ -11,8 +11,12 @@ I will add content as it becomes available.
 
 [Part 1 - Domain Controller Setup](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/DomainControlllerSetup/README.md)
 
+[Part 2 - Client Machine Setup](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/ClientMachineSetup/README.md)
 
-Part 2 - 'Setting Up Client Machines' will be posted soon. Thanks!
+
+Much, much more to be posted soon. Thanks!
+
+
 
 
 
