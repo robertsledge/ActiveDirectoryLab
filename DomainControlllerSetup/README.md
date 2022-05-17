@@ -132,11 +132,11 @@ When it does, hit 'Next'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/26.JPG)
 
-We can somply hit 'Next' here as well:
+We can simply hit 'Next' here as well:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/27.JPG)
 
-'Next' one more time (if all your install options look correct), and the system will go through a series of prerequisite checks.
+Select 'Next' one more time (if all your install options look correct), and the server will go through a series of prerequisite checks.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/28.JPG)
 
@@ -144,15 +144,15 @@ Once everything passes the prerequisite checks, you can hit 'Install'...
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/29.JPG)
 
-Your machine will reboot on its own.
+The server will reboot on its own.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/30.JPG)
 
-Log in with our SUPER SECRET Pa$$w0rd!...
+Now we log in with our SUPER SECRET Pa$$w0rd!...
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/31.JPG)
 
-We can check our User attributes to see that we are logged in as the Administrator Account on our new domain:
+For verification, we can cehck our user account info and see that we are logged in as the Administrator Account on our new domain:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/32.JPG)
 
@@ -166,7 +166,5 @@ If you have to go back and Google a few things, that's fine too.
 Next lesson: Setting up Client Machines - Coming up!
 
 
-
-================================
 
 
