@@ -100,47 +100,61 @@ Click 'Next' one more time:
 
 Click 'Install':
 
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/20.JPG)
+
+Once your install is done, you can click on the Notification at the top: 
+
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/21.JPG)
 
-
+And then select 'Promote this server to a domain controller'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/22.JPG)
 
+On the following screen, select 'Add a new forest' and name your domain. 
 
+I named mine 'ExampleDomain.local':
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/23.JPG)
 
-
+On this next screen, enter a password (this time we again used the super secret password of Pa$$w0rd!), and hit 'Next':
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/24.JPG)
 
-
+You can simply hit 'Next' here as well:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/25.JPG)
 
+Now this screen might take a moment to come up.
 
+Once it does, your domain name should be auto-populated in 'NETBIOS domain name' the box.
+
+When it does, hit 'Next'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/26.JPG)
 
-
+We can somply hit 'Next' here as well:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/27.JPG)
 
-
+'Next' one more time (if all your install options look correct), and the system will go through a series of prerequisite checks.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/28.JPG)
 
-
+Once everything passes the prerequisite checks, you can hit 'Install'...
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/29.JPG)
 
-
+Your machine will reboot on its own.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/30.JPG)
 
-We can check our User attributes to see that we are logged in as the Administrator Account on our new domain:
+Log in with our SUPER SECRET Pa$$w0rd!...
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/31.JPG)
+
+We can check our User attributes to see that we are logged in as the Administrator Account on our new domain:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/32.JPG)
 
 
 Congraulations! You are the Admin of your Domain Controller! 
@@ -149,7 +163,7 @@ If you've gotten this far on your own, AWESOME!
 
 If you have to go back and Google a few things, that's fine too.
 
-Next lesson: Seeting up Client Machines - Coming up!
+Next lesson: Setting up Client Machines - Coming up!
 
 
 
