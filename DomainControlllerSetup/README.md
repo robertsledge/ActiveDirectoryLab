@@ -6,7 +6,7 @@
 
 
 
-Here we go. We'll be using Server 2019 as our Domain Controller
+Here we go. We'll be using Server 2019 as our Domain Controller.
 
 Settings as seen below. Keeping it friendly at 2 GB RAM, and deleted the floppy.
 
