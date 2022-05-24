@@ -13,6 +13,8 @@ I will add content as it becomes available.
 
 [Part 2 - Client Machine Setup](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/ClientMachineSetup/README.md)
 
+[Part 3 - Adding Users, Groups, and Policies](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/UGP/README.md)
+
 
 Much, much more to be posted soon. Thanks!
 
