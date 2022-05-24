@@ -3,9 +3,9 @@
 
 
 
-We will be installing Windows 10 Enterprise Evaluation Edition for our client machines.
+We'll be installing Windows 10 Enterprise Evaluation Edition for our client machines.
 
-As we did with the domain controller, we are keeping it at 2 GB RAM, and again deleted the floppy.
+As we did with the domain controller, we are keeping the machines at 2 GB RAM, and again deleting the floppy.
 
 Let's start with the install settings:
 
