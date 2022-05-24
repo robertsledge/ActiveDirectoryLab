@@ -81,6 +81,20 @@ After the reboot, Jimmy will sign in:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/50.JPG)
 
+Once you see your desktop, the client machine is set up.
+
+Repeat or image as many clients as you will need for your application. 
+
+For this project,. we will only be using two machines. 
+
+For an exercise, try building the second one on your own. The second machine will be for Kim Wexler, who works at Hamlin, Hamlin, and McGill. They often shorten their name to HHM.
+
+Try to do it on your own, but if you have to refer back here or Google a bit, no worries there!
+
+Next stop - Adding users, groups, and policies, and then joining the machines to the domain.
+
+Talk soon.
+
 
 
 
