@@ -61,15 +61,25 @@ The machine will reboot:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/45.JPG)
 
-When we get to the desktop, go to the search br and type 'computer name', and rename this machine.
+When we get to the desktop, go to the search br and type 'computer name', and click 'View Your PC Name'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/46.JPG)
 
-Since Jimmy works at Wexler & McGill, that's what we'll name this machine.
+Click 'Rename this PC'
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/47.JPG)
 
+Since Jimmy works at Wexler & McGill, that's what we'll name this machine.
 
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/48.JPG)
+
+After you rename your PC, you will be prompter for another reboot:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/49.JPG)
+
+After the reboot, Jimmy will sign in:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/50.JPG)
 
 
 
