@@ -29,7 +29,9 @@ In the lower left, you will see an option to join to the domain instead. Slsect 
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/37.JPG)
 
-Let's make a user account. Since this domain exists in the Better Call Saul timeline, this computer will belong to Jimmy McGill at Wexler & McGill.
+Let's make a user account. 
+
+Since this domain exists in the Better Call Saul timeline, this computer will belong to Jimmy McGill at Wexler & McGill.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/38.JPG)
 
@@ -77,7 +79,7 @@ After you rename your PC, you will be prompter for another reboot:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/49.JPG)
 
-After the reboot, Jimmy will sign in:
+After the reboot, Jimmy will sign in with his super secret Pa$$w0rd! :
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/50.JPG)
 
@@ -87,7 +89,9 @@ Repeat or image as many clients as you will need for your application.
 
 For this project,. we will only be using two machines. 
 
-For an exercise, try building the second one on your own. The second machine will be for Kim Wexler, who works at Hamlin, Hamlin, and McGill. They often shorten their name to HHM.
+For an exercise, try building the second one on your own. 
+
+The second machine will be for Kim Wexler, who works at Hamlin, Hamlin, and McGill. They often shorten their name to HHM.
 
 Try to do it on your own, but if you have to refer back here or Google a bit, no worries there!
 
