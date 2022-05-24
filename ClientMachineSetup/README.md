@@ -37,6 +37,35 @@ Using the super secret password of Pa$$w0rd!
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/39.JPG)
 
-Confirm his super secret password:
+Confirm his super secret password and hit next:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/40.JPG)
+
+I always select 'No' here:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/41.JPG)
+
+When you come to this screen:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/42.JPG)
+
+I just turn everything off. Then hit 'Accept':
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/43.JPG)
+
+The machine will reboot:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/44.JPG)
+
+When we get to the desktop, we want to rename this machine.
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/45.JPG)
+
+Since Jimmy works at Wexler & McGill, that's what we'll name this machine.
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/46.JPG)
+
+
+
+
+
