@@ -29,9 +29,14 @@ In the lower left, you will see an option to join to the domain instead. Slsect 
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/37.JPG)
 
+Let's make a user account. Since this domain exists in the Better Call Saul timeline, this computer will belong to Jimmy McGill at Wexler & McGill.
 
-
-
-
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/38.JPG)
 
 Using the super secret password of Pa$$w0rd!
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/39.JPG)
+
+Confirm his super secret password:
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/40.JPG)
