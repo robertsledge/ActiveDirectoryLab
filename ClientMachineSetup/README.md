@@ -25,7 +25,7 @@ Next again:
 
 Setup will then ask you to sign in.
 
-In the lower left, you will see an option to join to the domain instead. Slsect 'Domain Join Instead'.
+In the lower left, you will see an option to join to the domain instead. Select 'Domain Join Instead'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/37.JPG)
 
@@ -84,6 +84,8 @@ After the reboot, Jimmy will sign in with his super secret Pa$$w0rd! :
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/50.JPG)
 
 Once you see your desktop, the client machine is set up.
+
+![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/51.JPG)
 
 Repeat or image as many clients as you will need for your application. 
 
