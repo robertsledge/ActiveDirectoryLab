@@ -43,7 +43,7 @@ Confirm his super secret password and hit next:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/40.JPG)
 
-We'll need some security questions for this account. Make sure you remember you answers!
+We'll need some security questions for this account. Make sure you remember your answers!
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/41.JPG)
 
@@ -89,7 +89,7 @@ Once you see your desktop, the client machine is set up.
 
 Repeat or image as many clients as you will need for your application. 
 
-For this project,. we will only be using two machines. 
+For this project we will only be using two machines. 
 
 For an exercise, try building the second one on your own. 
 
