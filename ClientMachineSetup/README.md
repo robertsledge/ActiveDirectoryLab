@@ -31,7 +31,7 @@ In the lower left, you will see an option to join to the domain instead. Select 
 
 Let's make a user account. 
 
-Since this domain exists in the Better Call Saul timeline, this computer will belong to Jimmy McGill at Wexler & McGill.
+Since this domain (ABQ) exists in the Better Call Saul timeline, this computer will belong to Jimmy McGill at Wexler & McGill.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/38.JPG)
 
@@ -63,7 +63,7 @@ The machine will reboot:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/45.JPG)
 
-When we get to the desktop, go to the search br and type 'computer name', and click 'View Your PC Name'.
+When we get to the desktop, go to the search bar and type 'computer name', and click 'View Your PC Name'.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/46.JPG)
 
@@ -75,7 +75,7 @@ Since Jimmy works at Wexler & McGill, that's what we'll name this machine.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/48.JPG)
 
-After you rename your PC, you will be prompter for another reboot:
+After you rename your PC, you will be prompted for another reboot:
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/49.JPG)
 
@@ -87,11 +87,11 @@ Once you see your desktop, the client machine is set up.
 
 ![alt text](https://github.com/robertsledge/ActiveDirectoryLab/blob/main/media/51.JPG)
 
-Repeat or image as many clients as you will need for your application. 
+Repeat (or image) as many clients as you will need for your application. 
 
 For this project we will only be using two machines. 
 
-For an exercise, try building the second one on your own. 
+As an exercise, try building the second one on your own. 
 
 The second machine will be for Kim Wexler, who works at Hamlin, Hamlin, and McGill. They often shorten their name to HHM.
 
